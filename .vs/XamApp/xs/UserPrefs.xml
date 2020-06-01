@@ -1,0 +1,6 @@
+﻿<Properties StartupConfiguration="{B94EE6AD-ABFC-4F2F-BB8C-38700844C15D}|Default">
+  <MonoDevelop.Ide.ItemProperties.XamApp.Android FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.XamApp.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.XamApp FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>
